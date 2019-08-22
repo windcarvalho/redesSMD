@@ -20,16 +20,16 @@ Redes de computadores é ....
 
 ### Tópicos 
 
-• Introdução às Redes de Computadores e seu impacto na Sociedade;
-• Conceitos Básicos de Redes de Computadores;
-• Topologias de Redes;
-• Camada de Aplicação: Transmissão de Arquivos, DNS, SMTP e a Web; 
-• Programação em Rede;
-• Componentes lógicos e físicos em Redes;
-• Ligações inter-redes;
-• Conceitos Básicos em Transmissão de Dados;
-• Introdução às Redes sem-fio;
-• Redes de Computadores e os Jogos Digitais.
+- Introdução às Redes de Computadores e seu impacto na Sociedade;
+- Conceitos Básicos de Redes de Computadores;
+- Topologias de Redes;
+- Camada de Aplicação: Transmissão de Arquivos, DNS, SMTP e a Web; 
+- Programação em Rede;
+- Componentes lógicos e físicos em Redes;
+- Ligações inter-redes;
+- Conceitos Básicos em Transmissão de Dados;
+- Introdução às Redes sem-fio;
+- Redes de Computadores e os Jogos Digitais.
 
 ### Bibliografia Sugerida
 
