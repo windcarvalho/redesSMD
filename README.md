@@ -12,7 +12,7 @@ UFC, horário: Terça-Quinta (10:00-12:00), Bloco UFC Virtual, Laboratório 2.
 
 ### Edições passadas
 
-- Edições passadas à 2019.2, apenas no SigaA.
+- Edições passadas à 2019.2, apenas no Sigaa.
 
 ### Ementa
 
