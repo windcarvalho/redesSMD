@@ -107,8 +107,8 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 
 | Aulas      | Parte | Tópicos                      | Recursos | Tarefas/Artigos |
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
-|18 Fev 2019| I e II | Semana Zero | - | - |
-|25 Fev 2019| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_ApresentacaoDisciplinaSD_v2019.pdf) | - |
+|06 Ago 2019| I e II | Semana Zero | - | - |
+|13 Ago 2019| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://github.com/windcarvalho/redesSMD/blob/master/Slides/Redes%20de%20Computadores%20-%20Aula%2000%20-%20Apresenta%C3%A7%C3%A3o.pdf) | - |
 |25 Fev 2019| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSD_v2019.pdf) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2019/material_de_estudo/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
 |04 Mar 2019| I e II | Carnaval | - | - |
 |11 Mar 2019| I | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSD_v2019.pdf), [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2019/material_de_estudo/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) | - |
