@@ -109,9 +109,9 @@ Para alunos da pós-graduação serão realizadas três atividades e mais práti
 |:-------------:|:----:|-----------------------------|:---------:|:-----------:|
 |06 Ago 2019| I e II | Semana Zero | - | - |
 |13 Ago 2019| I | Apresentação da Disciplina. Ementa. Bibliografia. Avaliação. Metodologia. | [Slides Apresentação - PDF](https://github.com/windcarvalho/redesSMD/blob/master/Slides/Redes%20de%20Computadores%20-%20Aula%2000%20-%20Apresenta%C3%A7%C3%A3o.pdf) | - |
-|25 Fev 2019| II | Fundamentos de SD (Conceito, Características, Vantagens, Desvantagens) | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSD_v2019.pdf) | [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2019/material_de_estudo/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) |
-|04 Mar 2019| I e II | Carnaval | - | - |
-|11 Mar 2019| I | Continuação Fundamentos de SD. (Conceito, Características, Vantagens, Desvantagens). | [Slides Fundamentos SD - PDF](https://github.com/famt/sd/blob/2019/slides/Aula01_IntroducaoSD_v2019.pdf), [Roteiro de estudos revisão de redes](https://github.com/famt/sd/blob/2019/material_de_estudo/Aula02_RoteiroDeEstudos-RevisaoDeRedes.pdf) | - |
+|15 Ago 2019| II | Feriado | - | - |
+|20 Ago 2019| I e II | Capítulo 1 - Introdução a Redes | [Slides Apresentação - PDF](https://github.com/windcarvalho/redesSMD/blob/master/Slides/Redes%20de%20Computadores%20-%20Aula%2001%20-%20Hist%C3%B3ria%20da%20Internet.pdf) | - |
+|27 Ago 2019| I e II | Capítulo 1 - Introdução a Redes | [Slides Apresentação - PDF](https://github.com/windcarvalho/redesSMD/blob/master/Slides/Redes%20de%20Computadores%20-%20Aula%2002%20-%20Redes%20de%20Acesso.pdf) | - |
 |11 Mar 2019| II | Revisão de Redes - Wireshark| - | [Formulário Atividade Wireshark](https://docs.google.com/forms/d/e/1FAIpQLSfs5DZzHQ_DbpUlIeT-jQ_uohDtikq_nFjjv0f-yZLTYiYjvw/viewform) |
 |18 Mar 2019| I e II | Modelos de Comunicação e Arquitetura | [Slides PDF](https://github.com/famt/sd/blob/2019/slides/Aula02_ModelosEstilosArquitetonicos_v2019.pdf) | - |
 |25 Mar 2019| I e II | Data Carta Magna do Ceará (Estadual) | -  | - |
